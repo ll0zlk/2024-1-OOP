@@ -1,0 +1,7 @@
+﻿  Event.cpp
+  EventScheduler.cpp
+C:\Users\hyoji\Desktop\PKNU_2024\2-1. 객체지향프로그래밍\Task_7\Task_7\EventScheduler.cpp(10,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+C:\Users\hyoji\Desktop\PKNU_2024\2-1. 객체지향프로그래밍\Task_7\Task_7\main.cpp(18,29): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Task_7.vcxproj -> C:\Users\hyoji\Desktop\PKNU_2024\2-1. 객체지향프로그래밍\Task_7\x64\Debug\Task_7.exe

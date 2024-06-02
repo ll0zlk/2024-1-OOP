@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\hyoji\Desktop\PKNU_2024\2-1. 객체지향프로그래밍\Practice\Practice\main.cpp(10,14): error C2440: '초기화 중': 'Base *'에서 'Derived *'(으)로 변환할 수 없습니다.
+C:\Users\hyoji\Desktop\PKNU_2024\2-1. 객체지향프로그래밍\Practice\Practice\main.cpp(10,14): message : 기본 형식에서 파생 형식으로 캐스트하려면 dynamic_cast 또는 static_cast가 필요합니다.
